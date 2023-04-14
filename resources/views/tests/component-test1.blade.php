@@ -4,4 +4,5 @@
 
 <x-tests.card title="タイトル1" content="本文1" :message="$message"></x-tests.card>
 <x-tests.card title="タイトル２"></x-tests.card>
+<x-tests.card title="タイトル３"  class="bg-400-red"></x-tests.card>
 </x-tests.app>
